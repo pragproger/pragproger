@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragproger, I know Java
 - 👀 I’m interested in Kotlin Java SML Ocaml D
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Ocaml
 - 💞️ I’m looking to collaborate on learning Kotlin
 - 📫 How to reach me - now no way
 
